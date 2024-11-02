@@ -1,0 +1,76 @@
+body {
+    font-family: "Roboto";
+    font-size: 16px;
+    letter-spacing: 2%;
+    line-height: 1.5;
+}
+
+.page-title {
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1.07;
+    color:white;
+    background-color: #2E2F42;
+}
+
+.title-sec {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+    background-color: #E7E9FC;
+}
+
+.title-tert {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.title-tert p {
+    font-size: 12px;
+    letter-spacing: 4%;
+    line-height: 0.86;
+    color: #434455;
+
+}
+
+
+
+.link {
+    font-size: 12px;
+    letter-spacing: 4%;
+    line-height: 0.75;
+    text-decoration: underline;
+    color:black;
+
+}
+.link:hover {
+    color: #4D5AE5;
+}
+
+.contact {
+    color: #434455;
+}
+
+.contact:hover {
+    color: #4D5AE5;
+}
+
+button {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 4%;
+    line-height: 1.5;
+    color:white;
+    background-color:#4D5AE5 ;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #404BBF;
+}
+
+footer {
+    color:white;
+    background-color: #2E2F42;
+}

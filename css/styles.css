@@ -55,6 +55,7 @@ body {
 .titke-four {
     line-height: 1.11;
     text-align: center;
+    font-size: 36px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -70,6 +71,10 @@ body {
     font-weight: 700;
     font-size: 18px;
 
+}
+
+.header-logo {
+    color: #2e2f42;
 }
 
 .link {
@@ -106,6 +111,11 @@ button:hover {
 }
 
 footer {
-    color:white;
+    color:#F4F4FD;
     background-color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+
+.footer-logo {
+    color: #f4f4fd
 }

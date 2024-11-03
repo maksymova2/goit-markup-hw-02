@@ -24,7 +24,6 @@ body {
 
 .section-one {
     background-color: #2e2f42;
-
 }
 
 
@@ -39,6 +38,11 @@ body {
 }
 
 .title-sec p {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.text-par {
     letter-spacing: 0.02em;
     color: #434455;
 }

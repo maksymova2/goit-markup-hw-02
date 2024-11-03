@@ -62,6 +62,19 @@ body {
 
 }
 
+.section-prof {
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 36px;
+    letter-spacing: 2%;
+    color: #2e2f42;
+    background-color: #E7E9FC;
+}
+
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -117,9 +130,12 @@ body {
     background-color:#4D5AE5 ;
     cursor: pointer;
 }
-.button:hover {
+.order-but:hover {
     background-color: #404BBF;
     
+}
+.order-but:focus {
+    background-color: #404BBF;
 }
 
 footer {

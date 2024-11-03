@@ -22,6 +22,12 @@ body {
     font-style: normal;
 }
 
+.section-one {
+    background-color: #2e2f42;
+
+}
+
+
 .title-sec {
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -89,6 +95,9 @@ body {
     letter-spacing: 0.02em ;
     
 }
+.first-item {
+    color: #2e2f42;
+}
 
 .contact:hover {
     color: #404bbf;
@@ -102,14 +111,15 @@ body {
 .order-but {
     font-weight: 500;
     font-size: 16px;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     line-height: 1.5;
     color:white;
     background-color:#4D5AE5 ;
     cursor: pointer;
 }
-button:hover {
+.button:hover {
     background-color: #404BBF;
+    
 }
 
 footer {

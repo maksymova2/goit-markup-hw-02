@@ -1,11 +1,15 @@
 body {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     letter-spacing: 2%;
     line-height: 1.5;
+    color: #434455;
+    background-color: white;
 }
 
 .page-title {
+    text-align: center;
+    letter-spacing: 0.02em;
     font-weight: bold;
     font-size: 56px;
     letter-spacing: 2%;
@@ -15,16 +19,29 @@ body {
 }
 
 .title-sec {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     font-weight: bold;
     font-size: 36px;
     letter-spacing: 2%;
+    color: #2e2f42;
     background-color: #E7E9FC;
+}
+
+.title-sec p {
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .title-tert {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 2%;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .title-tert p {
@@ -35,7 +52,25 @@ body {
 
 }
 
+.titke-four {
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 
+.logo {
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    
+
+}
 
 .link {
     font-size: 12px;

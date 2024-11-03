@@ -73,9 +73,8 @@ body {
 
 }
 
-.header-logo {
-    color: #2e2f42;
-}
+
+
 
 .link {
     font-size: 12px;
@@ -91,10 +90,19 @@ body {
 
 .contact {
     color: #434455;
+    font-weight: 500;
+    letter-spacing: 0.02em ;
+    font-style: normal;
+    
 }
 
 .contact:hover {
-    color: #4D5AE5;
+    color: #404bbf;
+    
+}
+
+.contact:focus {
+    color: #404bbf;
 }
 
 button {
@@ -118,4 +126,8 @@ footer {
 
 .footer-logo {
     color: #f4f4fd
+}
+
+.logo-part {
+    color: #f4f4fd ;
 }

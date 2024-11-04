@@ -38,6 +38,7 @@ body {
 }
 
 .title-sec p {
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -56,6 +57,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #F4F4FD;
 }
 
 .title-tert p {

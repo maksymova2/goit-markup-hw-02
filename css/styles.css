@@ -45,6 +45,10 @@ ul {
     
 }
 
+.contact {
+    color: #2e2f42;
+}
+
 .contact:hover {
     color: #404bbf;
     
@@ -68,10 +72,7 @@ ul {
     background-color: #FFFFFF
 }
 
-.section-four {
-    background-color: #F4F4FD;
 
-}
 
 .title-sec {
     line-height: 1.11;
@@ -125,7 +126,6 @@ ul {
     font-size: 36px;
     letter-spacing: 2%;
     color: #2e2f42;
-    background-color: #E7E9FC;
 }
 
 

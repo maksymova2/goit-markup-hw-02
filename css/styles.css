@@ -35,7 +35,11 @@ ul {
 
 }
 
-.first-item:hover, .first-item:focus {
+.first-item:hover {
+    color: #404bbf;
+}
+
+.first-item:focus {
     color: #404bbf;
 }
 
@@ -43,7 +47,11 @@ ul {
     color: #434455;
 }
 
-.contact:hover, .contact:focus {
+.contact:hover{
+    color: #404bbf;
+}
+
+.contact:focus {
     color: #404bbf;
     
 }
